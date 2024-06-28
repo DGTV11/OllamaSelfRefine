@@ -20,10 +20,5 @@ python3 main.py
 ```
 
 ## References
-<a id=1>[1]</a>
-Aman Madaan and Niket Tandon and Prakhar Gupta and Skyler Hallinan and Luyu Gao and Sarah Wiegreffe and Uri Alon and Nouha Dziri and Shrimai Prabhumoye and Yiming Yang and Shashank Gupta and Bodhisattwa Prasad Majumder and Katherine Hermann and Sean Welleck and Amir Yazdanbakhsh and Peter Clark (2023).
-Self-Refine: Iterative Refinement with Self-Feedback
-
-<a id=2>[2]</a>
-Saravia, Elvis (2022).
-Prompt Engineering Guide
+- Madaan, Aman, et al. ‘Self-Refine: Iterative Refinement with Self-Feedback’. arXiv [Cs.CL], 2023, http://arxiv.org/abs/2303.17651. arXiv.
+- Saravia, Elvis. ‘Prompt Engineering Guide’. https://github.com/dair-ai/Prompt-Engineering-Guide, 12 2022.
