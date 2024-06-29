@@ -9,7 +9,7 @@ An implementation of the SELF-REFINE iterative feedback and refinement approach 
 pip install -r requirements.txt
 ```
 
-3) Install an Ollama model (default model used: `qwen2:1.5b`)
+3) Install an Ollama model (default model used: `phi3`)
 
 ## Usage
 1) Edit constants.py if required (e.g. you are using a different Ollama model)
